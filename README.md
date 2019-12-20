@@ -1,3 +1,7 @@
+NOTE: YOU MAYBE NEED TO REFRESH THE WEB PAGE AFTER EACH OPERATION SO MAKE SURE TO REFRESH THE PAGE TO SEE THE RESULT OF THE OPERATION CAUSE OF SERVER 
+
+
+
 # MyBindingAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.12.
